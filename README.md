@@ -2,17 +2,17 @@
 <h3 align="center">A passionate Frontend Developer.</h3>
 <h3 align="left">I'm a CSE sophomore at KIIT University.</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm in C++ and Web Developement**
+- 🌱 I’m currently learning: **Data Structures and Algorithm in C++ and Web Developement**
 
-- 👯 I’m looking to collaborate on **Frontend Web Developement**
+- 👯 I’m looking to collaborate on: **Frontend Web Developement**
 
-- 💬 Ask me about **HTML, CSS, JS, SQL, DSA, C, C++**
+- 💬 Ask me about: **HTML, CSS, JS, SQL, DSA, C, C++**
 
-- 📫 How to reach me **shivangimohanty2001@gmail.com**
+- 📫 How to reach me: **shivangimohanty2001@gmail.com**
 
 - 😄 Pronouns: **She/Her**
 
-- ⚡ Fun fact **I love dancing, watching movies and kdramas, listening to music and I am really into Kpop.**
+- ⚡ Fun fact: **I love dancing, watching movies and kdramas, listening to music and I am really into Kpop.**
 
 
 <h3 align="left">Connect with me:</h3>
