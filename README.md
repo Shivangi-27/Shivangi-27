@@ -10,7 +10,10 @@
 
 - 📫 How to reach me **shivangimohanty2001@gmail.com**
 
+- 😄 Pronouns: She/Her**
+
 - ⚡ Fun fact **I love dancing, watching movies and kdramas, listening to music and I am really into Kpop.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
