@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... HTML, CSS, JS, SQL, DSA, C, C++
 - 📫 How to reach me: ... shivangimohanty2001@gmail.com
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I love dancing, watching movies and kdramas, listening to musics and I am really into Kpop. 
--->
+- ⚡ Fun fact: ... I love dancing, watching movies and kdramas, listening to musics and I am really into Kpop.
