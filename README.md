@@ -1,6 +1,7 @@
 <h1 align="center">Hey there!!👋, I'm Shivangi</h1>
 <h3 align="center">A passionate Frontend Developer.</h3>
-<h3 align="left">I'm a CSE sophomore at KIIT University
+<h3 align="left">I'm a CSE sophomore at KIIT University.</h3>
+
 - 🌱 I’m currently learning **Data Structures and Algorithm in C++ and Web Developement**
 
 - 👯 I’m looking to collaborate on **Frontend Web Developement**
