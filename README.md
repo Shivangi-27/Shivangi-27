@@ -12,7 +12,7 @@
 
 - 😄 Pronouns: **She/Her**
 
-- ⚡ Fun fact: **I love dancing, watching movies and kdramas, listening to music and I am really into Kpop.**
+- ⚡ Fun fact: **I love dancing, watching movies and kdramas, listening to music.**
 
 
 <h3 align="left">Connect with me:</h3>
